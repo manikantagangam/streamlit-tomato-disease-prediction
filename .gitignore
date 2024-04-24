@@ -1,5 +1,5 @@
-dataset/
-static/
-templates/
+# dataset/
+# static/
+# templates/
 .ipynb_checkpoints/
 .DS_Store
